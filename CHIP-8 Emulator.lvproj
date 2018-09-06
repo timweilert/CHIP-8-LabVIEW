@@ -24,7 +24,6 @@
 			<Item Name="Opcode at X.vi" Type="VI" URL="../SubVIs/Opcode at X.vi"/>
 		</Item>
 		<Item Name="Chip.vi" Type="VI" URL="../Chip.vi"/>
-		<Item Name="CHIP8.ico" Type="Document" URL="../CHIP8.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
