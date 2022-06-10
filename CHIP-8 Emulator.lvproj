@@ -96,8 +96,9 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{EC649A75-23E0-4462-AFFE-23CB4F12A826}</Property>
 				<Property Name="Bld_version.major" Type="Int">2</Property>
-				<Property Name="Destination[0].destName" Type="Str">CHIP-8-LabVIEW-2.0.0.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../Build/EXE/CHIP-8-LabVIEW-2.0.0.exe</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">CHIP-8-LabVIEW-2.0.1.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../Build/EXE/CHIP-8-LabVIEW-2.0.1.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -105,7 +106,7 @@
 				<Property Name="Destination[1].path" Type="Path">../Build/EXE/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{8AA7DB36-B9F1-4C55-BFD8-5E38A1A29E97}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{AEC3E059-12EC-42E6-AC7E-90B18846C819}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Chip.vi</Property>
@@ -128,7 +129,7 @@
 				<Property Name="TgtF_internalName" Type="Str">CHIP-8 LabVIEW</Property>
 				<Property Name="TgtF_productName" Type="Str">CHIP-8 LabVIEW</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{0E5ABE07-3C4E-49E8-83FE-92F7ECAB3541}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CHIP-8-LabVIEW-2.0.0.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CHIP-8-LabVIEW-2.0.1.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
