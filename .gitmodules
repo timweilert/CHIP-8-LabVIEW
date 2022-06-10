@@ -1,0 +1,6 @@
+[submodule "ROMs/corax89-chip8-test-rom"]
+	path = ROMs/corax89-chip8-test-rom
+	url = git@github.com:corax89/chip8-test-rom.git
+[submodule "ROMs/metteo-chip8-test-rom"]
+	path = ROMs/metteo-chip8-test-rom
+	url = git@github.com:metteo/chip8-test-rom.git
